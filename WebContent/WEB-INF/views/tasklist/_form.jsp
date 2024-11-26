@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<label for="content_msg">メッセージ</label><br />
+<label for="content_msg">タスク一覧</label><br />
 <input type="text" name="content" id="content_msg" value="${tasklist.content}" />
 <br /><br />
 
